@@ -19,7 +19,7 @@ A responsive banking application UI built with React and Tailwind CSS, inspired 
     npm install
  3. Start the development server:
     ``` bash
-    npm start 
+    npm run dev 
 ## Usage
 Open your browser and navigate to http://localhost:5173/.
 
